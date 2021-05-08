@@ -1,0 +1,7 @@
+print("Hello World")
+print("Hello\nWord")
+print(12)
+x=input("Enter Input")
+print(x)
+y,z=input("Enter Input").split()
+print(y," ",z)

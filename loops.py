@@ -4,5 +4,6 @@ for i in range(10):
 j=10
 while j>0:
     print(j)
+    j=j-1
 
  
